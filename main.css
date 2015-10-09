@@ -1,11 +1,11 @@
 body{
+  display: -webkit-flex;
+  display: flex;
   box-sizing: border-box;
   background-color:#121212; 
 }
 
 .fram{
-  display: -webkit-flex;
-  display: flex;
   direction: rtl;
   background-color: lightgrey;
   height: 250px;
