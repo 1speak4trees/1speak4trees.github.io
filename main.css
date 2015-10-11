@@ -4,6 +4,10 @@ body{
   color:#FFFFFF;
 }
 
+a{
+  text-decoration: none;
+}
+
 .fram{
   background-color: lightgrey;
   height: 250px;
