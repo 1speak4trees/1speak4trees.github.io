@@ -43,13 +43,12 @@ a{
 
 .fter{
   position:absolute;
+  Geight:20px;
   width:100%;
   bottom: 0;
   border-style: solid;
   border-width: 5px;
   border-color:#cornflowerblue;
-  height: 100px; 
-  width: 100px; 
 }
 
 .bttn{
