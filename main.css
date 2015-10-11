@@ -17,8 +17,10 @@ body{
   display: -webkit-flex;
   display: flex;
   -webkit-justify-content: flex-end;
+  -webkit-flex-wrap: nowrap;
+  -webkit-flex-direction: column;
+  flex-direction: column;
   justify-content: flex-end;
-  justify-content: space-between;
   border-style: solid;
   border-width: 5px;
   border-color:#FFFFFF;
