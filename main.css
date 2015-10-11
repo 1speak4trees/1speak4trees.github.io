@@ -46,9 +46,10 @@ body{
 }
 
 .bttn{
+  position: fixed;
+  bottom: 0;
   background-color:#3366FF;
   border:3px #00000;
-  height:50px;
-  width:50px;
-  margin:10px;
+  height:10px;
+  width:100%;
 }
