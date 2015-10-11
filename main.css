@@ -38,7 +38,7 @@ body{
 }
 
 .fter{
-  position: fixed;
+  position:absolute;
   width:100%;
   bottom: 0;
   border-style: solid;
