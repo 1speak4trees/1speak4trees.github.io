@@ -1,6 +1,7 @@
 body{
   box-sizing: border-box;
   background-color:#121212; 
+  color:#FFFFFF;
 }
 
 .fram{
@@ -15,6 +16,8 @@ body{
 .navi{
   display: -webkit-flex;
   display: flex;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
   border-style: solid;
   border-width: 5px;
   border-color:#FFFFFF;
@@ -37,4 +40,22 @@ body{
   border-color:#cornflowerblue;
   height: 100px; 
   width: 100px; 
+}
+
+.but1{
+  background-color:#009933;
+  border-width:1px;
+  border-color:#00000;
+}
+  
+.but2{
+  background-color:#009933;
+  border-width:1px;
+  border-color:#00000;
+}
+    
+.but3{
+  background-color:#009933;
+  border-width:1px;
+  border-color:#00000;
 }
