@@ -45,23 +45,10 @@ body{
   width: 100px; 
 }
 
-.but1{
-  background-color:#009933;
-  border: 3px #00000;
+.bttn{
+  background-color:#3366FF;
+  border:3px #00000;
   height:50px;
   width:50px;
-}
-  
-.but2{
-  background-color:#009933;
-  border: 3px #00000;
-  height:50px;
-  width:50px;
-}
-    
-.but3{
-  background-color:#009933;
-  border: 3px #00000;
-  height:50px;
-  width:50px;
+  margin:10px;
 }
