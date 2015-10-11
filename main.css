@@ -40,13 +40,12 @@ a{
 }
 
 .fter{
-  position:absolute;
-  Geight:20px;
-  width:80%;
+  position:relative;
+  height:20px;
+  width:100%;
   bottom: 0;
   border-style: solid;
   border-width: 2px 2px 0px 2px;
-  border-color:#cornflowerblue;
 }
 
 .bttn{
