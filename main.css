@@ -17,27 +17,23 @@ a{
 }
 
 .navi{
-  display: -webkit-flex;
-  display: flex;
-  -webkit-justify-content: flex-end;
-  -webkit-flex-wrap: nowrap;
-  -webkit-flex-direction: column;
-  flex-direciton: column;
-  justify-content: flex-end;
-  border-style: solid;
-  border-width: 5px;
-  border-color:#FFFFFF;
-  height: 100px;
-  width: 100%-10px;
+	display: -webkit-flex;
+	display: flex;
+	background-color: lightgrey;
+	border-style: solid;
+	border-width: 5px;
+	border-color:#FFFFFF;
+	height: 100px;
+	width: 100%-10px;
 
 }
 
 .cont{
-  border-style: solid;
-  border-width: 5px;
-  border-color:#FF1212;
-  height: 100px; 
-  width: 100px; 
+	border-style: solid;
+	border-width: 5px;
+	border-color:#FF1212;
+	height: 100px; 
+	width: 100px; 
 }
 
 .fter{
@@ -54,5 +50,5 @@ a{
   background-color:#051788;
   height:55px;
   width:55px;
-  margin:10px;
+  margin:3px;
 }
