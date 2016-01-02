@@ -20,7 +20,7 @@ a{
 	display: -webkit-flex;
 	display: flex;
 	flex-direction: row-reverse;
-	flex-direction: ltr;
+	flex-direction: rtl;
 	background-color: lightgrey;
 	border-style: solid;
 	border-width: 5px;
