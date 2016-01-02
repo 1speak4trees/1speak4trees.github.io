@@ -19,6 +19,7 @@ a{
 .navi{
 	display: -webkit-flex;
 	display: flex;
+	direction: rtl;
 	flex-direction: row-reverse;
 	background-color: lightgrey;
 	border-style: solid;
